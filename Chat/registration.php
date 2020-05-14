@@ -2,5 +2,5 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Ramsy_Chat',
+    'Oleksandrr_Chat',
     __DIR__);
